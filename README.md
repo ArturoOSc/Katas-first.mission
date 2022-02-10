@@ -1,1 +1,1 @@
-# Katas-first.mission
+# Katas-first-mission
